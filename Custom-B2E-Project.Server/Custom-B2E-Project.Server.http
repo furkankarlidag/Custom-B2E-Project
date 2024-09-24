@@ -1,0 +1,6 @@
+@Custom_B2E_Project.Server_HostAddress = http://localhost:5233
+
+GET {{Custom_B2E_Project.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
